@@ -1,0 +1,23 @@
+{
+  "Project Name": "Sample Project",
+  "Gallery": "sample_gallery.jpg",
+  "Main Project Image": "sample_image.jpg",
+  "Hot Resell": 85,
+  "Retail Price From Manufacturer": 100,
+  "Max Price": 150,
+  "Average Price": 120,
+  "Recommended Reseller Buy Price (New)": 110,
+  "Min Price": 90,
+  "Current Cheapest Reseller Price": 95,
+  "Recommended Resell Price (New)": 130,
+  "Number Of Identical Listings": 5,
+  "Short Project Description": "This is a short description of the sample project.",
+  "Long Project Description": "This is a long description of the sample project, providing more details and information.",
+  "Projects (Item)": "sample_item",
+  "Projects (List)": "sample_list",
+  "Date of Product Launch": "2023-01-01",
+  "ID": "sample_id",
+  "Created Date": "2023-01-01T00:00:00Z",
+  "Updated Date": "2023-01-02T00:00:00Z",
+  "Owner": "sample_owner"
+}
